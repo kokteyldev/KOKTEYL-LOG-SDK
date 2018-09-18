@@ -50,6 +50,12 @@ void KKLogSetLoglevel(KKLogLevel logLevel);
  */
 void KKLogSetLogPrefix(NSString* prefixString);
 
+
+/**
+ * Get current log level of KKLog.
+ */
+KKLogLevel KKLogGetLogLevel();
+
 void KKLogError(NSString *error, ...);
 void KKLogWarning(NSString *warning, ...);
 void KKLogInfo(NSString *info, ...);
