@@ -46,7 +46,7 @@ void KKLogSetLoglevel(KKLogLevel logLevel);
  * @code
  * KKLogSetLogPrefix(@"<MySDK> ");
  * @endcode
- * @param prefixString A string to print at the beginning if log.
+ * @param prefixString A string to print at the beginning of a log line.
  */
 void KKLogSetLogPrefix(NSString* prefixString);
 
