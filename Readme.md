@@ -1,3 +1,8 @@
+[![Swift](https://img.shields.io/badge/Swift-5.0_6.0-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.0_6.0-orange?style=flat-square)
+[![Platforms](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/KokteylLog.svg?style=flat-square)](https://img.shields.io/cocoapods/v/KokteylLog.svg)
+[![SPM Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen?style=flat-square)](https://img.shields.io/badge/SPM-compatible-brightgreen?style=flat-square)
+
 # KokteylLog
 
 A lightweight logging SDK for iOS.
