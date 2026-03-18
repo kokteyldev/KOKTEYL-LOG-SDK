@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'KokteylLog'
-  s.version          = '1.1.3'
+  s.version          = '1.1.4'
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 									Copyright 2016
 									KOKTEYL Bilgi Teknolojisi Hizmetleri A.S.. 
